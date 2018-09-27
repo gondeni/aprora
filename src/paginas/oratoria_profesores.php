@@ -17,10 +17,10 @@
 
 <!-- Heading -->
 <section class="container g-bg-white g-py-100">
-  <h2 class="h5 g-line-height-1_8" >
+  <h2 class="h5 g-line-height-1_8">
     <p>En un mundo en constante transformación estamos llamados a la formación continua. Las leyes educativas  y las empresas apuestan porque ésta sea competencial, es decir, una formación que consiga ciudadanos y profesionales que sepan desenvolverse, eficaces, exitosos.
-      Durante mucho tiempo se creyó que el orador no necesitaba formarse.</p><p> Era cuestión de talento. Sin embargo, como le sucede a cualquier artista o deportista el entrenamiento multiplica el talento. El conocimiento de las técnicas y el tesón en su aplicación mejorará enormemente el orador que todos llevamos dentro.
-        Por ello ofrecemos espacios para la formación en oratoria: jornadas, cursos, asistencia personalizada, auditorías de comunicación, charlas…</p><p> Nos dirigimos especialmente al ámbito escolar, considerando protagonistas directos a los profesores. Queremos que sean la cadena de transmisión para que los profesionales del futuro, los alumnos de hoy, adquieran las habilidades comunicativas necesarias para alcanzar el anhelado éxito personal.
+      Durante mucho tiempo se creyó que el orador no necesitaba formarse. Era cuestión de talento. Sin embargo, como le sucede a cualquier artista o deportista el entrenamiento multiplica el talento. El conocimiento de las técnicas y el tesón en su aplicación mejorará enormemente el orador que todos llevamos dentro.
+    </p><p>Por ello ofrecemos espacios para la formación en oratoria: jornadas, cursos, asistencia personalizada, auditorías de comunicación, charlas… Nos dirigimos especialmente al ámbito escolar, considerando protagonistas directos a los profesores. Queremos que sean la cadena de transmisión para que los profesionales del futuro, los alumnos de hoy, adquieran las habilidades comunicativas necesarias para alcanzar el anhelado éxito personal.
           Nuestra metodología es eminentemente activa. Pretendemos hacer una formación lo más personalizada posible porque cada uno tiene sus habilidades, sus dificultades y sus retos. Para ello necesitamos ver cómo lo haces, cómo pones en práctica las herramientas que ofrecemos y entonces tú mismo irás viendo cómo vas mejorando.
         </p>
       </h2>

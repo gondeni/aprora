@@ -85,7 +85,7 @@
     <!-- End Card -->
 
     <!-- Card -->
-    <div class="card rounded-0 g-brd-none">
+    <!-- <div class="card rounded-0 g-brd-none">
       <div id="accordion-07-heading-03" class="u-accordion__header g-pa-0" role="tab">
         <h5 class="mb-0 text-uppercase g-font-size-default g-font-weight-700 g-pa-20a mb-0">
           <a class="collapsed d-block g-color-main g-text-underline--none--hover" href="#accordion-07-body-03" data-toggle="collapse" data-parent="#accordion-07" aria-expanded="false" aria-controls="accordion-07-body-03">
@@ -106,7 +106,7 @@
           </p>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- End Card -->
   </div>
 </div>

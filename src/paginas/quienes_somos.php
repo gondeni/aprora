@@ -8,7 +8,7 @@
 
       <!-- Promo Block Content -->
       <div class="container g-color-white text-center g-py-120">
-        <h2 class="h1 g-font-weight-600 text-uppercase mb-2" id="borde_letra">Quienes somos</h2>
+        <h2 class="h1 g-font-weight-600 text-uppercase mb-2" id="borde_letra">Quiénes somos</h2>
         <!-- <p class="g-font-weight-300 g-font-size-22 text-uppercase">Y objetivos asociativos</p> -->
       </div>
       <!-- Promo Block Content -->
@@ -20,7 +20,7 @@
       <div class="text-center">
         <h2 class="h5 g-line-height-1_8">"El
           <span class="g-brd-bottom g-brd-primary g-color-primary g-font-weight-600 pb-1">éxito</span> es como el amanecer. Hay quienes lo esperan dormidos, <br> mientras otros se
-          <span class="g-brd-bottom g-brd-primary g-color-primary g-font-weight-600 pb-1">levantan</span> para encontrarlo."<br> A. Duarte
+          <span class="g-brd-bottom g-brd-primary g-color-primary g-font-weight-600 pb-1">levantan</span> para encontrarlo".<br> A. Duarte
         </h2>
       </div>
     </section>
@@ -114,19 +114,19 @@
         <!-- Figure Info -->
         <div class="g-mb-0">
           <h3 class="h5 g-color-black g-font-weight-400 mb-3">Actividad profesional</h3>
-          <p>Gestor cultural y Agente de desarrollo local en varios Ayuntamientos extremeños.</p>
-          <p>Autor y Editor de más de un centenar de libros.</p>
-          <p>Premios literarios y de investigación, destacando Ruta Quetzal.</p>
-          <p>Guionista y director de  varios Largometrajes.</p>
-          <p>Presidente de la Asociación “Itinerarte” ( promoción de artistas discapacitados).</p>
-          <p>Presidente de la Orden Deportiva Hernando de Soto.</p>
+          <p>Gestor cultural y Agente de desarrollo local en varios Ayuntamientos extremeños</p>
+          <p>Autor y Editor de más de un centenar de libros</p>
+          <p>Premios literarios y de investigación, destacando Ruta Quetzal</p>
+          <p>Guionista y director de  varios Largometrajes</p>
+          <p>Presidente de la Asociación “Itinerarte” ( promoción de artistas discapacitados)</p>
+          <p>Presidente de la Orden Deportiva Hernando de Soto</p>
           <p>Y, además ... <br/>
             <ul>
-              <li>Ha montado en globo.</li>
-              <li>Ha comido alacranes.</li>
-              <li>Ha cruzado el Triángulo de las Bermudas en barco.</li>
+              <li>Ha montado en globo</li>
+              <li>Ha comido alacranes</li>
+              <li>Ha cruzado el Triángulo de las Bermudas en barco</li>
               <li>Se ha metido en jaula con tigres</li>
-              <li>y sigue con nosotros…. ¡por algo será!.</li>
+              <li>y sigue con nosotros…. ¡por algo será!</li>
             </ul>
             <!-- <ul class="list-group">
               <li class="list-group-item">Ha montado en globo.</li>
@@ -207,12 +207,12 @@
         <!-- Figure Info -->
         <div class="g-mb-0">
           <h3 class="h5 g-color-black g-font-weight-400 mb-3">Actividad profesional</h3>
-          <p>PROFESOR Filosofía y Religión en Colegio “Sagrado Corazón de Jesús”. Madrid desde 2001.</p>
-          <p>FORMADOR EN ORATORIA Y DEBATE de alumnos de ESO y Bachillerato.</p>
-          <p>FORMADOR EN ORATORIA DE ADULTOS.</p>
-          <p>JUEZ EN TORNEOS DE DEBATE Y ORATORIA.</p>
-          <p>COORDINADOR TORNEOS DE DEBATE “ESCLAVAS CHAMBERÍ”. Ediciones 2016, 2017 y 2018.</p>
-          <p>COACH DE EQUIPOS DEBATE y ORATORIA: Campeón en III Torneo “Esclavas Chamberí” 2018. Subcampeón I Torneo “Esclavas Riazor Coruña” 2018. 5º en 2018 VI Torneo TIDE. Subcampeón “Jóvenes Promesas Madrid” 2017. Campeón en ediciones de 2016 y 2017 de Torneo Montpellier. 3º en 2017 en VIII Torneo CAM. Subcampeón en IV TIDE de Universidad Francisco de Vitoria 2015.</p>
+          <p>PROFESOR Filosofía y Religión en Colegio “Sagrado Corazón de Jesús”. Madrid, desde 2001</p>
+          <p>FORMADOR EN ORATORIA Y DEBATE de alumnos de ESO y Bachillerato</p>
+          <p>FORMADOR EN ORATORIA DE ADULTOS</p>
+          <p>JUEZ EN TORNEOS DE DEBATE Y ORATORIA</p>
+          <p>COORDINADOR TORNEOS DE DEBATE “ESCLAVAS CHAMBERÍ”. Ediciones 2016, 2017 y 2018</p>
+          <p>COACH DE EQUIPOS DEBATE y ORATORIA: Campeón en III Torneo “Esclavas Chamberí” 2018. Subcampeón I Torneo “Esclavas Riazor Coruña” 2018. 5º en 2018 VI Torneo TIDE. Subcampeón “Jóvenes Promesas Madrid” 2017. Campeón en ediciones de 2016 y 2017 de Torneo Montpellier. 3º en 2017 en VIII Torneo CAM. Subcampeón en IV TIDE de Universidad Francisco de Vitoria 2015</p>
         </div>
         <!-- End Info -->
       </div>
@@ -274,11 +274,11 @@
         <!-- Figure Info -->
         <div class="g-mb-50">
           <h3 class="h5 g-color-black g-font-weight-400 mb-3">Formación académica</h3>
-          <p>Arquitecto Técnico por Universidad Politecnica de Madrid.</p>
-          <p>Especialista en Oratoria, con programación Neurolingüistica ( PNL) e Inteligencia Emocional (IE) por la  Escuela Europea de Oratoria.</p>
-          <p>Seminario : El Arte de Hablar, retorica, dialectica, ética y el arte de organizar el Discurso por Fundación Pastor de Estudios Clásicos.</p>
-          <p>Curso Gestión del Tiempo y reuniones eficaces por Waltker Jaquetti.</p>
-          <p>Curso de Liderazgo y gestión de equipos por Make a Team ( Jorge Valdano).</p>
+          <p>Arquitecto Técnico por Universidad Politecnica de Madrid</p>
+          <p>Especialista en Oratoria, con programación Neurolingüistica ( PNL) e Inteligencia Emocional (IE) por la  Escuela Europea de Oratoria</p>
+          <p>Seminario : El Arte de Hablar, retorica, dialectica, ética y el arte de organizar el Discurso por Fundación Pastor de Estudios Clásicos</p>
+          <p>Curso Gestión del Tiempo y reuniones eficaces por Waltker Jaquetti</p>
+          <p>Curso de Liderazgo y gestión de equipos por Make a Team ( Jorge Valdano)</p>
           <p>Curso Comunicación eficaz y Gestión rentable del tiempo en Fundación Confemetal</p>
         </div>
         <!-- End Info -->
@@ -286,10 +286,10 @@
         <br/>
         <div class="g-mb-0">
           <h3 class="h5 g-color-black g-font-weight-400 mb-3">Actividad profesional</h3>
-          <p>Director general SMDos desde 2001.</p>
-          <p>Profesor Cursos de Postgrado por Universidad Politecnica de Madrid y  COAC de Barcelona.</p>
-          <p>Desde 1990, formador y ponente prestigioso en numerosos congresos nacionales con decenas de presentaciones y discursos.</p>
-          <p>Auditor de comunicación y preparador de alumnos para tesis doctoral y preparación para TFG.</p>
+          <p>Director general SMDos desde 2001</p>
+          <p>Profesor Cursos de Postgrado por Universidad Politecnica de Madrid y  COAC de Barcelona</p>
+          <p>Desde 1990, formador y ponente prestigioso en numerosos congresos nacionales con decenas de presentaciones y discursos</p>
+          <p>Auditor de comunicación y preparador de alumnos para tesis doctoral y preparación para TFG</p>
         </div>
         <!-- End Info -->
       </div>
