@@ -77,7 +77,7 @@
       <div id="accordion-07-body-02" class="collapse" role="tabpanel" aria-labelledby="accordion-07-heading-02">
         <div class="u-accordion__body g-bg-gray-light-v5 g-px-50 g-py-30">
           <p>
-            APRORA, sin ánimo de lucro, en colaboración con el Ayuntamiento de Barcarrota y el Diario HOY convoca el II Concurso de Oratoria, diseñado y abierto a la participación de los alumnos de 5º y 6º de Educación Primaria y de la E.S.O. y Bachillerato de todos los Centros Educativos de Extremadura.
+            APRORA, sin ánimo de lucro, en colaboración con el Ayuntamiento de Barcarrota y el Diario HOY convoca el II Concurso de Oratoria, diseñado y abierto a la participación de los alumnos de 5º y 6º de Educación Primaria de todos los Centros Educativos de Extremadura para el curso académico 2018-2019.
           </p>
         </div>
       </div>

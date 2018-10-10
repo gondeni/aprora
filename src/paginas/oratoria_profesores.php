@@ -69,11 +69,17 @@
         <div class="row">
           <div class="col-md-12 g-mb-30">
             <h3 class="h1 g-color-black g-font-weight-700 mb-4">Metodología</h3>
-            <p class="lead">Ofrecer a los profesores y a los alumnos admitidos, las herramientas necesarias y adecuadas para que puedan desarrollar con éxito la oratoria que ejercen diariamente.</p>
-            <p class="lead">Acompañar a los profesores en la preparación de los alumnos para que desarrollen sus capacidades comunicativas y para que puedan participar en el CONCURSO DE ORATORIA.</p>
+            <p class="lead">Se empleará una metodología eminentemente activa, práctica y competencial. Se pretende con ello que los profesores, mediante dinámicas y el uso de las técnicas expuestas, mejoren su arte de hablar en público. Esto facilitará que los participantes posteriormente las puedan trasladar y adaptar a sus alumnos.</p>
           </div>
         </div>
-        <a href="../../resources/curso_oratoria_profesores.pdf" target="_blank">Descargar información del curso</a>
+
+        <div class="row g-pt-10">
+          <a href="../../resources/curso_oratoria_profesores.pdf" class="g-color-primary" target="_blank">Descargar información del curso</a>
+        </div>
+        <div class="row g-pt-10">
+          <a href="../../resources/hoja_inscripcion.doc" class="g-color-primary" target="_blank">Hoja de inscripción</a>
+        </div>
+
       </section>
       <!-- End Portfolio Case Study -->
 

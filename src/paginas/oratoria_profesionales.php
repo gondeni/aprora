@@ -78,6 +78,13 @@
           <p class="lead">APRORA dispone para sus asociados medios de apoyo y colaboración ante diferentes casuísticas y necesidades variadas que se puedan proponer y/o necesitar por los entes y personal adscrito a APRORA. para ello facilita una consultoría gratuita a los asociados.</p>
         </div>
       </div>
+
+      <!-- <div class="row g-pt-10">
+        <a href="../../resources/curso_oratoria_profesores.pdf" class="g-color-primary" target="_blank">Descargar información del curso</a>
+      </div> -->
+      <div class="row g-pt-10">
+        <a href="../../resources/hoja_inscripcion.doc" class="g-color-primary" target="_blank">Hoja de inscripción</a>
+      </div>
     </section>
     <!-- End Portfolio Case Study -->
 

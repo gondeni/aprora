@@ -67,7 +67,7 @@
         <div class="d-flex justify-content-between g-mb-10">
           <div class="g-mb-20">
             <h3 class="h5 g-color-black g-font-weight-600 mb-3">Francisco Joaquín Pérez González</h3>
-            <em class="d-block g-font-style-normal g-font-size-default text-uppercase g-color-primary">Secretario de APRORA</em>
+            <em class="d-block g-font-style-normal g-font-size-default text-uppercase g-color-primary">Secretario técnico de APRORA</em>
           </div>
 
           <!-- Figure Social Icons -->
