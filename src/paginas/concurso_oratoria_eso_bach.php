@@ -129,7 +129,7 @@
 
 <!-- Bases e inscripción -->
 <div class="row g-pt-50">
-  <a href="../../resources/concurso_oratoria_eso_Bachillerato.pdf" class="g-color-primary" target="_blank">Bases del concurso</a>
+  <a href="../../resources/concurso_oratoria_eso_bach.pdf" class="g-color-primary" target="_blank">Bases del concurso</a>
 </div>
 <div class="row g-pt-10">
   <a href="../../resources/hoja_inscripcion.doc" class="g-color-primary" target="_blank">Hoja de inscripción</a>
