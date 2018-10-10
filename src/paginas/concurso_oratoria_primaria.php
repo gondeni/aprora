@@ -114,6 +114,9 @@
 
 <!-- Bases e inscripción -->
 <div class="row g-pt-50">
+  <p class="lead">Más información e inscripción: </p><br/>
+</div>
+<div class="row g-pt-10">
   <a href="../../resources/concurso_oratoria_primaria.pdf" class="g-color-primary" target="_blank">Bases del concurso</a>
 </div>
 <div class="row g-pt-10">

@@ -125,6 +125,7 @@
 
 <!-- JS Customization -->
 <script src="../../assets/js/custom.js"></script>
+<script src="../../assets/vendor/gmaps/gmaps.min.js" ></script>
 
 <!-- JS Plugins Init. -->
 <script>
@@ -198,6 +199,8 @@ $(document).on('ready', function () {
   // initialization of carousel
   $.HSCore.components.HSCarousel.init('.js-carousel');
 
+  // $.HSCore.components.HSGMap.init('.mapa');
+
   // initialization of tabs
   $.HSCore.components.HSTabs.init('[role="tablist"]');
 
@@ -225,15 +228,17 @@ $(window).on('resize', function () {
   setTimeout(function () {
     $.HSCore.components.HSTabs.init('[role="tablist"]');
   }, 200);
+
+
 });
+
+function initMap() {
+  $.HSCore.components.HSGMap.init('.js-g-map');
+}
+
 </script>
 
-
-
-
-
-
-
+<!-- <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCdcLHT1qHZwx2Tas4C8QVu70bw09sEHz8&amp;callback=initMap" defer=""  async=""></script> -->
 </body>
 
 </html>

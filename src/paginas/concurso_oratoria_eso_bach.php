@@ -3,7 +3,7 @@
 <!-- Promo Block -->
 <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall " data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
   <!-- Parallax Image -->
-  <div class="divimage dzsparallaxer--target w-100 u-bg-overlay g-bg-black-opacity-0_3--after" style="height: 120%; background-image: url(../../assets/img/img11.jpg);"></div>
+  <div class="divimage dzsparallaxer--target w-100 u-bg-overlay g-bg-black-opacity-0_3--after" style="height: 120%; background-image: url(../../assets/img/img12.jpg);"></div>
   <!-- End Parallax Image -->
 
   <!-- Promo Block Content -->
@@ -24,7 +24,7 @@
       <img class="img-fluid u-shadow-v2 g-rounded-3" style="max-width:200px;" src="../../assets/img/logos/hoy.jpg" alt="Diario 'HOY'">
     </div>
   </div>
-</section>ESO y Bachillerato
+</section>
 <!-- Portfolio Case Study -->
 <section class="container g-pt-50 g-pb-70">
   <div class="u-heading-v2-1 g-brd-primary g-mb-30">
@@ -129,6 +129,9 @@
 
 <!-- Bases e inscripción -->
 <div class="row g-pt-50">
+  <p class="lead">Más información e inscripción: </p><br/>
+</div>
+<div class="row g-pt-10">
   <a href="../../resources/concurso_oratoria_eso_bach.pdf" class="g-color-primary" target="_blank">Bases del concurso</a>
 </div>
 <div class="row g-pt-10">
