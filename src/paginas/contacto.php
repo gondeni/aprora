@@ -56,11 +56,11 @@
 
   <div class="row justify-content-center">
     <div class="col-md-5">
-      <form action="gondeni.romero@gmail.com" method="post" enctype="text/plain">
+      <form action="../includes/mailer.php" method="post" enctype="text/plain">
         <div class="row">
           <div class="col-md-6 form-group g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">Nombre</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="nombre" type="text" placeholder="">
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="nombre" type="text" placeholder="" required>
           </div>
 
           <div class="col-md-6 form-group g-mb-20">
@@ -71,7 +71,7 @@
 
         <div class="g-mb-20">
           <label class="g-color-gray-dark-v2 g-font-size-13">Correo electrónico</label>
-          <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="email" type="email" placeholder="">
+          <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="correo" type="email" placeholder="" required>
         </div>
 
         <div class="g-mb-20">
@@ -84,7 +84,7 @@
     <div class="col-md-7">
       <div class="g-mb-40">
         <label class="g-color-gray-dark-v2 g-font-size-13">Tu mensaje</label>
-        <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" name="mensaje" rows="12" placeholder="Escriba aquí su mensaje ..."></textarea>
+        <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" name="body" rows="12" placeholder="Escriba aquí su mensaje ..." required></textarea>
       </div>
 
       <div class="text-right">
