@@ -62,7 +62,7 @@
           <h3 class="h1 g-color-black g-font-weight-700 mb-4">A quién va dirigido</h3>
           <p class="lead">El Curso “ORATORIA PARA PROFESORES. Cómo aprender a hablar en público en el aula” está dirigido, principalmente, a:</p>
           <p class="lead">Profesores y profesoras de Primaria, Secundaria  y Bachillerato, que ejerzan en la actualidad en la Comunidad Autónoma de Extremadura, alumnos universitarios,
-            licenciados y profesionales, aquellas personas que por su formación, empleo o actividades ,  guarden afinidad con el curso propuesto.</p>
+            licenciados y profesionales, aquellas personas que por su formación, empleo o actividades, guarden afinidad con el curso propuesto.</p>
 
           </div>
         </div>

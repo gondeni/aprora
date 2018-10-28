@@ -20,16 +20,16 @@
   <div class="row">
     <div class="col-md-offset-2 col-md-8 g-mb-30">
       <p>Te ofrecemos e invitamos a formar parte de nuestro colectivo como asociado.<br/>
-        ser socio de <span class="g-color-primary">APRORA</span>, te permite participar activamente en las actividades de la Asociación:</p>
+        Ser socio de <span class="g-color-primary">APRORA</span>, te permite participar activamente en las actividades de la Asociación:</p>
         <ul class="list-group list-group-flush g-pt-20">
-          <li class="list-group-item">Charlas y conferencia magistrales por especialistas en Oratoria</li>
+          <li class="list-group-item">Charlas y conferencias magistrales por especialistas en Oratoria</li>
           <li class="list-group-item">Descuento en inscripción de concursos</li>
           <li class="list-group-item">Asistencia al encuentro anual de socios</li>
           <li class="list-group-item">Ayudarás a un buen fin : propagar la oratoria en centros educativos</li>
         </ul>
         <p class="g-pt-40">Y un largo conjunto de posibilidades que favorecerán tu desarrollo en oratoria a nivel individual, colectivo y social.<br/>
-          ¡Hazte socio por sólo 30 €/año¡</p>
-          <p>Existe también  opción de inscripción a nivel colectivo: Centro educativo, Empresas, Organizaciones ( consultar)<br/>para hacerte socio/a de APRORA sólo tienes que rellenar el <a href="../../resources/hoja_inscripcion.doc">formulario de inscripción</a> y enviarlo por email a: <a href="mailto:administracion@aprora.com">administración@aprora.com</a>.</p>
+          ¡Hazte socio por sólo 30 €/año!</p>
+          <p>Existe también  opción de inscripción a nivel colectivo: Centro educativo, Empresas, Organizaciones ( consultar)<br/>Para hacerte socio/a de APRORA sólo tienes que rellenar el <a href="../../resources/hoja_inscripcion.doc">formulario de inscripción</a> y enviarlo por email a: <a href="mailto:administracion@aprora.com">administración@aprora.com</a>.</p>
         </div>
       </div>
     </section>
