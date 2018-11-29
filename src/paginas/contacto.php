@@ -22,33 +22,40 @@
     <div class="col-lg-6 g-mb-50">
       <!-- Heading -->
       <h2 class="h1 g-color-black g-font-weight-700 mb-4">¿Cómo podemos ayudarte?</h2>
-      <p class="g-font-size-18 mb-0">Los arranques de APRORA nacen inicialmente en la Comunidad Extremeña, con sedes en Mérida y Barcarrota, y progresivamente como foco asociativo de índole  nacional se extiende  también con sede en Madrid.</p>
+      <p class="g-font-size-18 mb-0">Los arranques de APRORA nacen inicialmente en la Comunidad Extremeña, y progresivamente como foco asociativo de índole  nacional se extiende  también con sede en Madrid.</p>
       <!-- End Heading -->
     </div>
-    <div class="col-lg-3 align-self-end ml-auto g-mb-50">
-      <div class="media">
-        <div class="d-flex align-self-center">
-          <span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
-            <i class="g-font-size-16 icon-communication-033 u-line-icon-pro"></i>
-          </span>
-        </div>
-        <div class="media-body align-self-center">
-          <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Teléfono</h3>
-          <p class="mb-0">+34 671 226 617</p>
-        </div>
+    <div class="col-lg-6">
+      <div class="row g-mb-50">
+        <div id="map"></div>
       </div>
-    </div>
-
-    <div class="col-lg-3 align-self-end ml-auto g-mb-50">
-      <div class="media">
-        <div class="d-flex align-self-center">
-          <span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
-            <i class="g-font-size-16 icon-communication-062 u-line-icon-pro"></i>
-          </span>
+      <div class="row g-mb-10">
+        <div class="col-lg-6 align-self-end ml-auto">
+          <div class="media">
+            <div class="d-flex align-self-center">
+              <span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
+                <i class="g-font-size-16 icon-communication-033 u-line-icon-pro"></i>
+              </span>
+            </div>
+            <div class="media-body align-self-center">
+              <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Teléfono</h3>
+              <p class="mb-0">+34 671 226 617</p>
+            </div>
+          </div>
         </div>
-        <div class="media-body align-self-center">
-          <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Correo electrónico</h3>
-          <p class="mb-0"><a href="mailto:info@aprora.com">info@aprora.com</a></p>
+
+        <div class="col-lg-6 align-self-end ml-auto">
+          <div class="media">
+            <div class="d-flex align-self-center">
+              <span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
+                <i class="g-font-size-16 icon-communication-062 u-line-icon-pro"></i>
+              </span>
+            </div>
+            <div class="media-body align-self-center">
+              <h3 class="h6 g-color-black g-font-weight-700 text-uppercase mb-0">Correo electrónico</h3>
+              <p class="mb-0"><a href="mailto:info@aprora.com">info@aprora.com</a></p>
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -127,8 +127,9 @@
 
 <!-- JS Customization -->
 <script src="../../assets/js/custom.js"></script>
-<script src="../../assets/vendor/gmaps/gmaps.min.js" ></script>
-
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdcLHT1qHZwx2Tas4C8QVu70bw09sEHz8&callback=initMap">
+</script>
 <!-- JS Plugins Init. -->
 <script>
 // initialization of slider revolution
@@ -234,13 +235,8 @@ $(window).on('resize', function () {
 
 });
 
-function initMap() {
-  $.HSCore.components.HSGMap.init('.js-g-map');
-}
-
 </script>
 
-<!-- <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCdcLHT1qHZwx2Tas4C8QVu70bw09sEHz8&amp;callback=initMap" defer=""  async=""></script> -->
 </body>
 
 </html>

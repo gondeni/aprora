@@ -18,10 +18,10 @@
 <section class="container g-pt-100 g-pb-40 g-pl-150" >
   <div class="row">
     <div class="col-md-6">
-      <img class="img-fluid u-shadow-v2 g-rounded-3" style="max-width:500px;" src="../../assets/img/logos/consejeria.png" alt="Consejería de educación y empleo">
+      <img class="img-fluid u-shadow-v2 g-rounded-3" style="max-width:100%;" src="../../assets/img/logos/consejeria.png" alt="Consejería de educación y empleo">
     </div>
     <div class="col-md-4 g-pt-25 g-pl-50">
-      <img class="img-fluid u-shadow-v2 g-rounded-3" style="max-width:200px;" src="../../assets/img/logos/hoy.jpg" alt="Diario 'HOY'">
+      <img class="img-fluid u-shadow-v2 g-rounded-3" style="max-width:100%;" src="../../assets/img/logos/hoy.jpg" alt="Diario 'HOY'">
     </div>
   </div>
 </section>
