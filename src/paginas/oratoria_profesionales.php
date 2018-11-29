@@ -48,18 +48,8 @@
     <!-- End Testimonials -->
 
     <!-- Portfolio Case Study -->
-    <section class="container g-pt-100 g-pb-70">
-      <div class="row">
-        <div class="col-md-offset-2 col-md-8 g-mb-30">
-          <h3 class="h1 g-color-black g-font-weight-700 mb-4">JORNADAS “Aprende a hablar en público”</h3>
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item">Nivel básico</li>
-            <li class="list-group-item">Nivel medio</li>
-            <li class="list-group-item">Nivel avanzado</li>
-            <li class="list-group-item">Nivel profesional</li>
-          </ul>
-        </div>
-      </div>
+
+    <!-- <section class="container g-pt-100 g-pb-70">
       <div class="row">
         <div class="col-md-12 g-mb-30">
           <h3 class="h1 g-color-black g-font-weight-700 mb-4">Conferencias magistrales</h3>
@@ -78,11 +68,7 @@
           <p class="lead">APRORA dispone para sus asociados medios de apoyo y colaboración ante diferentes casuísticas y necesidades variadas que se puedan proponer y/o necesitar por los entes y personal adscrito a APRORA. para ello facilita una consultoría gratuita a los asociados.</p>
         </div>
       </div>
-
-      <!-- <div class="row g-pt-10">
-        <a href="../../resources/curso_oratoria_profesores.pdf" class="g-color-primary" target="_blank">Descargar información del curso</a>
-      </div> -->
-    </section>
+    </section> -->
     <!-- End Portfolio Case Study -->
 
     <?php include '../utils/pie.html'; ?>

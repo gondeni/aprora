@@ -13,6 +13,18 @@
   text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: -0.6875rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+
 #borde_cv{
   border-left: 5px solid #00AB39;
 }
