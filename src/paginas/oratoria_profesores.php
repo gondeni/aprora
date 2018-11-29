@@ -76,9 +76,6 @@
         <div class="row g-pt-10">
           <a href="../../resources/curso_oratoria_profesores.pdf" class="g-color-primary" target="_blank">Descargar información del curso</a>
         </div>
-        <div class="row g-pt-10">
-          <a href="../../resources/hoja_inscripcion.doc" class="g-color-primary" target="_blank">Hoja de inscripción</a>
-        </div>
 
       </section>
       <!-- End Portfolio Case Study -->
