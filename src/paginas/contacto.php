@@ -30,7 +30,7 @@
         <div id="map"></div>
       </div>
       <div class="row g-mb-10">
-        <div class="col-lg-6 align-self-end ml-auto">
+        <div class="col-lg-5 align-self-end ml-auto">
           <div class="media">
             <div class="d-flex align-self-center">
               <span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
@@ -44,7 +44,7 @@
           </div>
         </div>
 
-        <div class="col-lg-6 align-self-end ml-auto">
+        <div class="col-lg-5 align-self-end ml-auto">
           <div class="media">
             <div class="d-flex align-self-center">
               <span class="u-icon-v2 u-icon-size--sm g-color-white g-bg-primary rounded-circle mr-3">
@@ -57,49 +57,63 @@
             </div>
           </div>
         </div>
+
+        <div class="col-lg-2">
+          <div class="media" style="font-size:2em;">
+            <a href="https://www.facebook.com/Aprora-439520733245941/" style="color: #3B5998;" target"_blank"><i class="fab fa-facebook-f"></i></a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
 
   <div class="row justify-content-center">
-    <div class="col-md-5">
-      <form action="../includes/mailer.php" method="post" enctype="text/plain">
+    <div class="col-md-12">
+      <!-- <form action="../includes/mailer.php" method="post" enctype="text/plain"> -->
+      <form enctype="text/plain" method="post" action="mailto:info@aprora.com">
+      <!-- <form enctype="text/plain" method="get" action="mailto:gondeni.romero@gmail.com?subject=Email%20Subject&body=Email%20Body%20Text"> -->
         <div class="row">
-          <div class="col-md-6 form-group g-mb-20">
+          <div class="col-md-4 form-group g-mb-20">
             <label class="g-color-gray-dark-v2 g-font-size-13">Nombre</label>
             <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="nombre" type="text" placeholder="" required>
           </div>
-
-          <div class="col-md-6 form-group g-mb-20">
-            <label class="g-color-gray-dark-v2 g-font-size-13">Apellidos</label>
-            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="apellidos" type="text" placeholder="">
+          <div class="col-md-4 form-group g-mb-20">
+            <label class="g-color-gray-dark-v2 g-font-size-13">Correo electrónico</label>
+            <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="correo" type="email" placeholder="" required>
           </div>
-        </div>
-
-        <div class="g-mb-20">
-          <label class="g-color-gray-dark-v2 g-font-size-13">Correo electrónico</label>
-          <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="correo" type="email" placeholder="" required>
-        </div>
-
-        <div class="g-mb-20">
+          <div class="col-md-4 form-group g-mb-20">
           <label class="g-color-gray-dark-v2 g-font-size-13">Número de teléfono</label>
           <input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="telefono" type="tel" placeholder="">
+          </div>
         </div>
-
+        <div class="row">
+          <div class="col-md-12 form-group g-mb-20">
+            <div class="g-mb-40">
+              <label class="g-color-gray-dark-v2 g-font-size-13">Tu mensaje</label>
+              <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" name="mensaje" rows="12" placeholder="Escriba aquí su mensaje ..." required></textarea>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 form-group g-mb-20 text-right">
+            <input class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded-3 g-py-12 g-px-35 g-bg-primary" type="submit" value="Enviar">
+            <!-- <button class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded-3 g-py-12 g-px-35 g-bg-primary" type="submit" role="button">Enviar</button> -->
+          </div>
+        </div>
       </form>
-    </div>
-    <div class="col-md-7">
-      <div class="g-mb-40">
-        <label class="g-color-gray-dark-v2 g-font-size-13">Tu mensaje</label>
-        <textarea class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" name="body" rows="12" placeholder="Escriba aquí su mensaje ..." required></textarea>
-      </div>
-
-      <div class="text-right">
-        <button class="btn u-btn-primary g-font-weight-600 g-font-size-13 text-uppercase rounded-3 g-py-12 g-px-35 g-bg-primary" type="submit" role="button">Enviar</button>
-      </div>
     </div>
   </div>
 </section>
 <!-- End Contact Form -->
+<!-- <div class="row">
+<div class="col-md-6">
+<label class="g-color-gray-dark-v2 g-font-size-13">Correo electrónico</label>
+<input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="correo" type="email" placeholder="" required>
+</div>
 
+<div class="col-md-6">
+<label class="g-color-gray-dark-v2 g-font-size-13">Número de teléfono</label>
+<input class="form-control g-color-black g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" name="telefono" type="tel" placeholder="">
+</div>
+</div> -->
 <?php include '../utils/pie.html'; ?>

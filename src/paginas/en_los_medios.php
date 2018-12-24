@@ -17,7 +17,13 @@
 
 <!-- Portfolio Case Study -->
 <section class="g-bg-gray-light-v5">
+
   <div class="container g-py-100">
+    <div class="row justify-content-center g-mb-110">
+      <div class="col-md-offset-2 col-md-4">
+        <div class="fb-page" data-href="https://www.facebook.com/Aprora-439520733245941/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Aprora-439520733245941/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Aprora-439520733245941/">Aprora</a></blockquote></div>
+      </div>
+    </div>
     <div class="row justify-content-center g-mb-110">
       <div class="col-lg-8">
         <!-- Heading -->

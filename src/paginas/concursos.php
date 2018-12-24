@@ -39,11 +39,10 @@
       <br>
       <br>
       <div class="list-group">
+        <a href="concurso_oratoria_chamberi.php" class="list-group-item" target="_blank">Concurso Esclavas Chamberí</a>
         <a href="concurso_oratoria_primaria.php" class="list-group-item" target="_blank">Concurso de oratoria para primaria</a>
         <a href="../../resources/concurso_oratoria_eso_bachiller.pdf" class="list-group-item" target="_blank">Concursos de oratoria para ESO y Bachillerato</a>
-        <a href="../../resources/hoja_inscripcion.doc" class="list-group-item" >Inscripción concurso primaria</a>
-        <a href="../../resources/hoja_inscripcion.doc" class="list-group-item" >Inscripción concurso ESO</a>
-        <a href="../../resources/hoja_inscripcion.doc" class="list-group-item" >Inscripción concurso Bachillerato</a>
+        <a href="../../resources/hoja_inscripcion.doc" class="list-group-item">Hoja de inscripción a concursos</a>
       </div>
     </div>
 
