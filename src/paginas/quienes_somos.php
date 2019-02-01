@@ -71,7 +71,7 @@
         </div>
 
         <!-- Figure Social Icons -->
-        <ul class="list-inline">
+        <!-- <ul class="list-inline">
           <li class="list-inline-item g-mx-2">
             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="#">
               <i class="g-font-size-default g-line-height-1 u-icon__elem-regular fa fa-facebook"></i>
@@ -96,7 +96,7 @@
               <i class="g-font-size-default g-line-height-0_8 u-icon__elem-hover fa fa-linkedin"></i>
             </a>
           </li>
-        </ul>
+        </ul> -->
         <!-- End Figure Social Icons -->
       </div>
 
@@ -148,7 +148,7 @@
         </div>
 
         <!-- Figure Social Icons -->
-        <ul class="list-inline">
+        <!-- <ul class="list-inline">
           <li class="list-inline-item g-mx-2">
             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="#">
               <i class="g-font-size-default g-line-height-1 u-icon__elem-regular fa fa-facebook"></i>
@@ -173,7 +173,7 @@
               <i class="g-font-size-default g-line-height-0_8 u-icon__elem-hover fa fa-linkedin"></i>
             </a>
           </li>
-        </ul>
+        </ul> -->
         <!-- End Figure Social Icons -->
       </div>
 
@@ -223,7 +223,7 @@
         </div>
 
         <!-- Figure Social Icons -->
-        <ul class="list-inline">
+        <!-- <ul class="list-inline">
           <li class="list-inline-item g-mx-2">
             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="#">
               <i class="g-font-size-default g-line-height-1 u-icon__elem-regular fa fa-facebook"></i>
@@ -248,7 +248,7 @@
               <i class="g-font-size-default g-line-height-0_8 u-icon__elem-hover fa fa-linkedin"></i>
             </a>
           </li>
-        </ul>
+        </ul> -->
         <!-- End Figure Social Icons -->
       </div>
 
@@ -278,18 +278,16 @@
   </figure>
 </section>
 <!-- End Figure Body -->
-<hr class="g-brd-gray-light-v4 my-0"/>
+<hr class="g-brd-gray-light-v4 my-0"/>ç
 
 <!-- Figure -->
-<section class="container g-pt-100 g-pb-40">
+
+<!-- <section class="container g-pt-100 g-pb-40">
   <figure class="row" id = "borde_cv">
-    <!-- Figure Image -->
     <div class="col-md-8 offset-md-2 col-lg-4 offset-lg-0">
       <img class="w-100" src="../../assets/img/cv3.jpg" alt="Francisco Joaquín Pérez González">
     </div>
-    <!-- End Figure Image -->
 
-    <!-- Figure Body -->
     <div class="col-lg-8">
       <div class="d-flex justify-content-between g-mb-10">
         <div class="g-mb-20">
@@ -297,7 +295,6 @@
           <em class="d-block g-font-style-normal g-font-size-default text-uppercase g-color-primary">Secretario técnico de APRORA</em>
         </div>
 
-        <!-- Figure Social Icons -->
         <ul class="list-inline">
           <li class="list-inline-item g-mx-2">
             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="#">
@@ -324,21 +321,8 @@
             </a>
           </li>
         </ul>
-        <!-- End Figure Social Icons -->
       </div>
 
-
-      <!-- Figure Info -->
-      <!-- <div class="g-mb-50">
-      <h3 class="h5 g-color-black g-font-weight-400 mb-3">Formación académica</h3>
-      <p>Arquitecto Técnico por Universidad Politecnica de Madrid.</p>
-      <p>Especialista en Oratoria, con programación Neurolingüistica ( PNL) e Inteligencia Emocional (IE) por la  Escuela Europea de Oratoria.</p>
-      <p>Seminario : El Arte de Hablar, retorica, dialectica, ética y el arte de organizar el Discurso por Fundación Pastor de Estudios Clásicos.</p>
-      <p> Curso Gestión del Tiempo y reuniones eficaces por Waltker JaquettiCurso de Liderazgo y gestión de equipos por Make a Team ( Jorge Valdano).</p>
-      <p>Curso Comunicación eficaz y Gestión rentable del tiempo en Fundación Confemetal</p>
-    </div> -->
-    <!-- End Info -->
-    <!-- Figure Info -->
     <div class="g-mb-0">
       <h3 class="h5 g-color-black g-font-weight-400 mb-3">Actividad profesional</h3>
       <p>Gestor cultural y Agente de desarrollo local en varios Ayuntamientos extremeños</p>
@@ -355,19 +339,13 @@
           <li>Se ha metido en jaula con tigres</li>
           <li>y sigue con nosotros…. ¡por algo será!</li>
         </ul>
-        <!-- <ul class="list-group">
-        <li class="list-group-item">Ha montado en globo.</li>
-        <li class="list-group-item">Ha comido alacranes.</li>
-        <li class="list-group-item">Ha cruzado el Triángulo de las Bermudas en barco.</li>
-        <li class="list-group-item">Se ha metido en jaula con tigres</li>
-        <li class="list-group-item">y sigue con nosotros…. ¡por algo será!.</li>
-      </ul> -->
+
     </p>
   </div>
-  <!-- End Info -->
 </div>
 </figure>
-</section>
+</section> -->
+
 <!-- End Figure Body -->
 <!-- End Figure -->
 
