@@ -15,7 +15,24 @@
 </section>
 
 <!-- End Promo Block -->
-<section class="container g-pt-100 g-pb-40 g-pl-150" >
+<!-- <section class="container g-pt-100 g-pb-40 g-pl-150" >
+  <div class="row">
+    <div class=" col-md-12 g-pt-25 g-pl-50">
+      <img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/concurso_oratoria_ep_eso_1.jpg" alt="concurso_oratoria_ep_eso_1">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 g-pt-25 g-pl-50">
+      <img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/concurso_oratoria_ep_eso_2.jpg" alt="concurso_oratoria_ep_eso_2">
+    </div>
+  </div>
+</section> -->
+<!-- Portfolio Case Study -->
+<section class="container g-pt-50 g-pb-70">
+  <div class="u-heading-v2-1 g-brd-primary g-mb-30">
+    <h2 class="text-uppercase u-heading-v2__title g-font-weight-700 mb-0">II Concurso de oratoria E.P. y E.S.O. </h2>
+    <h4 class="g-font-weight-200">Extremadura</h4>
+  </div>
   <div class="row">
     <!-- <div class="col-md-6">
       <img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/logos/consejeria.png" alt="Consejería de educación y empleo">
@@ -23,22 +40,18 @@
     <div class="col-md-4 g-pt-25 g-pl-50">
       <img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/logos/hoy.jpg" alt="Diario 'HOY'">
     </div> -->
-    <div class="col-md-offset-4 col-md-12 g-pt-25 g-pl-50">
-      <img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:70%;" src="../../assets/img/concurso_oratoria_ep_eso.jpg" alt="concurso_oratoria_ep_eso_1">
+    <div class=" col-md-12 g-pt-25 g-pl-50">
+      <a href="../../resources/concurso_oratoria_ep_eso_1.jpg" class="g-color-primary" target="_blank"><img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/concurso_oratoria_ep_eso_1.jpg" alt="concurso_oratoria_ep_eso_1"></a>
     </div>
   </div>
-</section>
-<!-- Portfolio Case Study -->
-<section class="container g-pt-50 g-pb-70">
-  <div class="u-heading-v2-1 g-brd-primary g-mb-30">
-    <h2 class="text-uppercase u-heading-v2__title g-font-weight-700 mb-0">II Concurso de oratoria E.P. y E.S.O. </h2>
-    <h4 class="g-font-weight-200">Extremadura</h4>
+  <div class="row">
+    <div class="col-md-12 g-pt-25 g-pl-50">
+      <a href="../../resources/concurso_oratoria_ep_eso_2.jpg" class="g-color-primary" target="_blank"><img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/concurso_oratoria_ep_eso_2.jpg" alt="concurso_oratoria_ep_eso_2"></a>
+    </div>
   </div>
 
-
-  <div class="shortcode-html">
+  <!-- <div class="shortcode-html">
     <div id="accordion-07" class="u-accordion u-accordion-color-primary" role="tablist" aria-multiselectable="true">
-      <!-- Card -->
       <div class="card rounded-0 g-brd-none">
         <div id="accordion-07-heading-01" class="u-accordion__header g-pa-0" role="tab">
           <h5 class="mb-0 text-uppercase g-font-size-default g-font-weight-700 g-pa-20a mb-0">
@@ -75,9 +88,7 @@
         </div>
       </div>
     </div>
-    <!-- End Card -->
 
-    <!-- Card -->
     <div class="card rounded-0 g-brd-none">
       <div id="accordion-07-heading-02" class="u-accordion__header g-pa-0" role="tab">
         <h5 class="mb-0 text-uppercase g-font-size-default g-font-weight-700 g-pa-20a mb-0">
@@ -100,10 +111,8 @@
         </div>
       </div>
     </div>
-    <!-- End Card -->
 
-    <!-- Card -->
-    <!-- <div class="card rounded-0 g-brd-none">
+   <div class="card rounded-0 g-brd-none">
       <div id="accordion-07-heading-03" class="u-accordion__header g-pa-0" role="tab">
         <h5 class="mb-0 text-uppercase g-font-size-default g-font-weight-700 g-pa-20a mb-0">
           <a class="collapsed d-block g-color-main g-text-underline--none--hover" href="#accordion-07-body-03" data-toggle="collapse" data-parent="#accordion-07" aria-expanded="false" aria-controls="accordion-07-body-03">
@@ -124,10 +133,9 @@
           </p>
         </div>
       </div>
-    </div> -->
-    <!-- End Card -->
+    </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- Bases e inscripción -->
@@ -135,11 +143,11 @@
   <p class="lead">Más información e inscripción: </p><br/>
 </div>
 <div class="row g-pt-10">
-  <a href="../../resources/concurso_oratoria_ep_eso_1.jpg" class="g-color-primary" target="_blank">Imagen 1</a>
+  <a href="../../resources/CONCURSO APRORA 2019.pdf" class="g-color-primary" target="_blank">Bases</a>
 </div>
-<div class="row g-pt-10">
+<!-- <div class="row g-pt-10">
   <a href="../../resources/concurso_oratoria_ep_eso_2.jpg" class="g-color-primary" target="_blank">Imagen 2</a>
-</div>
+</div> -->
 <div class="row g-pt-10">
   <a href="../../resources/hoja_inscripcion.doc" class="g-color-primary" target="_blank">Hoja de inscripción</a>
 </div>
