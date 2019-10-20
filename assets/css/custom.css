@@ -36,10 +36,10 @@
   padding-top:4px;
   width: 300px;
 }
-#logo_img{
-  left:10%;
-  position:absolute;
-}
+/*#logo_img{*/
+/*  left:10%;*/
+/*  position:absolute;*/
+/*}*/
 
 #logo_letra{
   display: none;
@@ -357,10 +357,10 @@ Colores
       width: 20%;
       float: left;
     }
-    #logo_img {
-      left: 4%;
-      position: absolute;
-    }
+    /*#logo_img {*/
+    /*  left: 4%;*/
+    /*  position: absolute;*/
+    /*}*/
     .fb-menu{
       position: absolute;
       right: 4%;

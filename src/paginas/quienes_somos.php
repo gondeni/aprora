@@ -31,7 +31,7 @@
 <section class="container g-bg-white g-py-40 g-pt-0" >
   <div class="text-center">
     <h2 class="h5 g-line-height-1_8" style="text-align:justify;">
-      <p>APRORA nace desde la ilusión y el arrojo de unos cuantos locos que quieren promover la oratoria. Pretendemos que los escolares, y todos los que estén con la inquietud de aprenderla, tengan la oportunidad tantas veces negada o silenciada. Nuestra sociedad no se ha distinguido por propiciar este aprendizaje esencial para el desarrollo académico y profesional. Por ello creemos que ha llegado la hora de dar un paso al frente y posibilitar el aprendizaje y los espacios necesarios para desarrollarlo.</p>
+      <p>APRORA, o Asociación -sin ánimo de lucro- para el aprendizaje de la oratoria, nace desde la ilusión y el arrojo de unos cuantos locos que quieren promover la oratoria. Pretendemos que los escolares, y todos los que estén con la inquietud de aprenderla, tengan la oportunidad tantas veces negada o silenciada. Nuestra sociedad no se ha distinguido por propiciar este aprendizaje esencial para el desarrollo académico y profesional. Por ello creemos que ha llegado la hora de dar un paso al frente y posibilitar el aprendizaje y los espacios necesarios para desarrollarlo.</p>
       <p>Nacemos con vocación de servicio, pues si no sirves, no sirves para nada… Allí donde haya una necesidad, con humildad, prestaremos nuestra ayuda para que todos tengamos acceso al aprendizaje de las técnicas adecuadas para hablar bien en público.</p>
       <p>Además APRORA se ofrece como el punto de encuentro para aunar las inquietudes y comunicaciones en esa materia, en especial para el cuerpo docente,  capaz de recoger y transmitir en comunidad, todas las aportaciones que se hagan y soliciten, siendo así referente a futuro del interés por la Oratoria en su version “ aprendizaje escolar”.</p>
       <p>Que el miedo escénico se convierta en placer escénico, que los nervios paralizantes se transformen en ímpetu ante el auditorio, que el temblor en la voz y en las manos se manifieste en el control del tiempo y el espacio. ¡Este es nuestro reto y tu oportunidad!</p>
@@ -193,9 +193,10 @@
         <p>PROFESOR Filosofía y Religión en Colegio “Sagrado Corazón de Jesús”. Madrid, desde 2001</p>
         <p>FORMADOR EN ORATORIA Y DEBATE de alumnos de ESO y Bachillerato</p>
         <p>FORMADOR EN ORATORIA DE ADULTOS</p>
-        <p>JUEZ EN TORNEOS DE DEBATE Y ORATORIA</p>
-        <p>COORDINADOR TORNEOS DE DEBATE “ESCLAVAS CHAMBERÍ”. Ediciones 2016, 2017 y 2018</p>
-        <p>COACH DE EQUIPOS DEBATE y ORATORIA: Campeón en III Torneo “Esclavas Chamberí” 2018. Subcampeón I Torneo “Esclavas Riazor Coruña” 2018. 5º en 2018 VI Torneo TIDE. Subcampeón “Jóvenes Promesas Madrid” 2017. Campeón en ediciones de 2016 y 2017 de Torneo Montpellier. 3º en 2017 en VIII Torneo CAM. Subcampeón en IV TIDE de Universidad Francisco de Vitoria 2015</p>
+        <p>JUEZ EN TORNEOS DE DEBATE Y ORATORIA de escolares y universitarios</p>
+        <p>COORDINADOR TORNEOS DE DEBATE “ESCLAVAS CHAMBERÍ”. Ediciones desde el 2016 hasta la actualidad</p>
+        <p>COORDINADOR I CONCURSO DE ORATORIA 6º EP "ESCLAVAS CHAMBERÍ" 2019</p>
+        <p>COACH DE EQUIPOS DEBATE y ORATORIA: Subcampeón Torneo CAM 2019. Finalista Concurso Oratoria CAM 2019. Campeón en III y IV Torneo “Esclavas Chamberí”. 3º Torneo TIDE UFV 2019. Subcampeón I Torneo “Esclavas Riazor Coruña” 2018. 5º en 2018 VI Torneo TIDE. Subcampeón “Jóvenes Promesas Madrid” 2017. Campeón en ediciones de 2016 y 2017 de Torneo Montpellier. 3º en 2017 en VIII Torneo CAM. Subcampeón en IV TIDE de Universidad Francisco de Vitoria 2015</p>
       </div>
       <!-- End Info -->
     </div>
