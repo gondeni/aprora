@@ -60,7 +60,7 @@
 
         <div class="col-lg-2">
           <div class="media" style="font-size:2em;">
-            <a href="https://www.facebook.com/Aprora-439520733245941/" style="color: #3B5998;" target"_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.facebook.com/Aprora-439520733245941/" style="color: #3B5998;" target="_blank"><i class="fab fa-facebook-f"></i></a>
           </div>
         </div>
       </div>
