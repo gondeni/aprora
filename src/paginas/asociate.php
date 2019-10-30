@@ -22,14 +22,15 @@
       <p>Te ofrecemos e invitamos a formar parte de nuestro colectivo como asociado.<br/>
         Ser socio de <span class="g-color-primary">APRORA</span>, te permite participar activamente en las actividades de la Asociación:</p>
         <ul class="list-group list-group-flush g-pt-20">
-          <li class="list-group-item">Charlas y conferencias magistrales por especialistas en Oratoria</li>
-          <li class="list-group-item">Descuento en inscripción de concursos</li>
-          <li class="list-group-item">Asistencia al encuentro anual de socios</li>
-          <li class="list-group-item">Ayudarás a un buen fin : propagar la oratoria en centros educativos</li>
+          <li class="list-group-item">Asistencias gratuita a charlas y conferencias magistrales por especialistas de Oratoria.</li>
+          <li class="list-group-item">Descuentos de inscripcion cursos de Aprora.</li>
+          <li class="list-group-item">Descuentos y prioridad en el asesoramiento y apoyo organización de concursos/torneos de Oratoria-Debate.</li>
+          <li class="list-group-item">Descuentos en Auditorias de Comunicación.</li>
+          <li class="list-group-item">Comunicaciones periódicas relacionadas con Aprora.</li>
+          <li class="list-group-item">Además ayudarás a un buen fin: propagar la oratoria en centros educativos.</li>
         </ul>
-        <p class="g-pt-40">Y un largo conjunto de posibilidades que favorecerán tu desarrollo en oratoria a nivel individual, colectivo y social.<br/>
-          ¡Hazte socio por sólo 30 €/año!</p>
-          <p>Existe también  opción de inscripción a nivel colectivo: Centro educativo, Empresas, Organizaciones ( consultar)<br/>Para hacerte socio/a de APRORA sólo tienes que rellenar el <a href="../../resources/hoja_inscripcion.doc">formulario de inscripción</a> y enviarlo por email a: <a href="mailto:administracion@aprora.com">administración@aprora.com</a>.</p>
+        <p class="g-pt-40">La opción de inscripción está reservada a colectivos educativos/ organizaciones culturales y empresas. Consultar cuotas en función de personal que disfrutará de la Asociación.</p>
+        <p>Para hacerte socio/a de APRORA, sólo tienes que escribir a: <a href="mailto:direccion@aprora.com">direccion@aprora.com</a>, deberás indicar tus datos y organización que representa y nos pondremos en contacto .</p>
         </div>
       </div>
     </section>

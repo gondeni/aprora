@@ -222,6 +222,9 @@
         // initialization of counters
         var counters = $.HSCore.components.HSCounter.init('[class*="js-counter"]');
 
+        if (window.innerWidth <= 991){
+            $(".texto").attr("disabled");
+        }
     });
 
     $(window).on('load', function () {
@@ -239,6 +242,9 @@
             pageContainer: $('.container'),
             breakpoint: 991
         });
+        if (window.innerWidth <= 991){
+            $(".texto").attr("disabled");
+        }
     });
 
     $(window).on('resize', function () {
@@ -246,8 +252,14 @@
             $.HSCore.components.HSTabs.init('[role="tablist"]');
         }, 200);
 
+        $(window).resize(function () {
+            if (window.innerWidth <= 991){
+                $(".texto").attr("disabled");
+            }
+        });
 
     });
+
 </script>
 </body>
 

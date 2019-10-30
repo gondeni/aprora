@@ -357,6 +357,9 @@ Colores
       width: 20%;
       float: left;
     }
+      .texto {
+          display:none;
+      }
     /*#logo_img {*/
     /*  left: 4%;*/
     /*  position: absolute;*/
