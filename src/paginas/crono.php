@@ -4,116 +4,8 @@
     <!-- CSS Global Compulsory -->
     <link rel="stylesheet" href="../../assets/vendor/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="../../assets/vendor/jquery-ui/themes/base/jquery-ui.min.css">
+    <link rel="stylesheet" href="../../assets/css/crono.css">
 </head>
-<style>
-    /* CSS Document */
-    #box {
-        float: left;
-        margin-top: 50px;
-        width: 100%;
-    }
-
-    #selector-cronometro {
-        float: left;
-        text-align: center;
-
-        margin-bottom: 10px;
-    }
-
-    #cronometros {
-        float: left;
-
-        margin: 20px 0;
-        text-align: center;
-    }
-
-    #controlador {
-        margin-top: 10px;
-        float: left;
-
-    }
-
-    #cronometro-pausa, #cronometro-reset {
-        background: #212121;
-        color: #9b9b9b;
-        padding: 10px;
-        width: 348px;
-        float: left;
-        border: none;
-        font-family: 'Maven Pro', sans-serif;
-        font-size: 18px;
-        border: 1px solid #212121;
-    }
-
-    #cronometro-pausa:hover, #cronometro-reset:hover {
-        background: #575757;
-        color: #bcbcbc;
-        border: 1px solid #7a7a7a;
-    }
-
-    #cronometro-pausa {
-        margin: 0;
-    }
-
-    #cronometro-reset {
-        margin-left: 10px;
-    }
-
-    .cronometro {
-        border: 4px solid #CCCCCC;
-        color: #c2002f;
-        float: left;
-        font-size: 115px;
-        padding: 35px 0;
-        width: 698px;
-    }
-
-    .cronometro.alert {
-        color: #cc0022;
-    }
-
-    .btn {
-        background: #212121;
-        color: #9b9b9b;
-        float: left;
-        font-weight: normal;
-        margin-right: 10px;
-        padding: 7px 0;
-        width: 167px;
-        font-size: 17px;
-        border: 1px solid #212121;
-    }
-
-    #btn-conclusion {
-        margin: 0;
-    }
-
-    .btn:hover {
-        background: #575757;
-        color: #bcbcbc;
-        float: left;
-        font-weight: normal;
-        margin-right: 10px;
-        padding: 7px 0;
-        font-size: 17px;
-        border: 1px solid #7a7a7a;
-    }
-
-    .btn.btn-active {
-        background: black;
-        color: #c2002f;
-        border: 1px solid #c2002f;
-        float: left;
-        font-weight: normal;
-        margin-right: 10px;
-        padding: 7px 0;
-        font-size: 17px;
-    }
-
-    #cronometro-pausa:hover, #cronometro-reset:hover, .btn:hover {
-        cursor: pointer;
-    }
-</style>
 <body>
 <div class="row">
     <div id="wrapper" class="offset-md-3 col-md-6">
@@ -122,22 +14,35 @@
                 <div>
                     <meta name="viewport"
                           content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
-                    <div id="box">
-                        <div id="selector-cronometro">
-                            <span id="btn-exposicion" class="btn btn-active">Exposición</span>
-                            <span id="btn-refutacion" class="btn">Refutación 1</span>
-                            <span id="btn-refutacion2" class="btn">Refutación 2</span>
-                            <span id="btn-conclusion" class="btn">Conclusión</span>
+                    <div id="box" class="row">
+                        <div class="row" style="width: 100%">
+                            <img src="../../assets/img/logos/aproraLetrasVerdesTransparente.png" class="img-fluid img center" id="logo">
                         </div>
-                        <div id="cronometros">
-                            <span style="display: block;" id="cronometro-exposicion" class="cronometro">00:03:00</span>
-                            <span style="display: none;" id="cronometro-refutacion" class="cronometro">00:04:00</span>
-                            <span style="display: none;" id="cronometro-refutacion2" class="cronometro">00:04:00</span>
-                            <span style="display: none;" id="cronometro-conclusion" class="cronometro">00:03:00</span>
+                        <div class="row">
+                            <div id="selector-cronometro">
+                                <span id="btn-exposicion" class="btn btn-active col-md-3">Exposición</span>
+                                <span id="btn-refutacion" class="btn col-md-3">Refutación 1</span>
+                                <span id="btn-refutacion2" class="btn col-md-3">Refutación 2</span>
+                                <span id="btn-conclusion" class="btn col-md-3">Conclusión</span>
+                            </div>
                         </div>
-                        <div id="controlador">
-                            <button id="cronometro-pausa">Continuar</button>
-                            <button id="cronometro-reset">Resetear contador</button>
+                        <div class="row" style="width: 100%">
+                            <div id="cronometros" class="col-md-12">
+                                <span style="display: block;" id="cronometro-exposicion"
+                                      class="cronometro">00:03:00</span>
+                                <span style="display: none;" id="cronometro-refutacion"
+                                      class="cronometro">00:04:00</span>
+                                <span style="display: none;" id="cronometro-refutacion2"
+                                      class="cronometro">00:04:00</span>
+                                <span style="display: none;" id="cronometro-conclusion"
+                                      class="cronometro">00:03:00</span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div id="controlador">
+                                <button id="cronometro-pausa" class="btn col-md-6">Continuar</button>
+                                <button id="cronometro-reset" class="btn col-md-6">Resetear contador</button>
+                            </div>
                         </div>
                     </div>
                 </div>
