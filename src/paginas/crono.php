@@ -31,12 +31,36 @@
 
     }
 
-    #cronometro-pausa, #cronometro-reset {
+    #cronometro-pausa{
         background: #212121;
         color: #9b9b9b;
         padding: 10px;
         width: 348px;
         float: left;
+        border: none;
+        font-family: 'Maven Pro', sans-serif;
+        font-size: 18px;
+        border: 1px solid #212121;
+    }
+
+    #cronometro-reset {
+        background: #212121;
+        color: #9b9b9b;
+        padding: 10px;
+        width: 200px;
+        float: left;
+        border: none;
+        font-family: 'Maven Pro', sans-serif;
+        font-size: 18px;
+        border: 1px solid #212121;
+    }
+
+    #cronometro-tiempo {
+        background: white;
+        color: #9b9b9b;
+        padding: 10px;
+        width: 100px;
+        float: right;
         border: none;
         font-family: 'Maven Pro', sans-serif;
         font-size: 18px;
@@ -121,7 +145,7 @@
                     <meta name="viewport"
                           content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
                     <div id="box">
-                        <div class="row" style="width: 698px;margin-bottom: 30px>
+                        <div class="row" style="width: 698px;margin-bottom: 30px">
                             <img src="../../assets/img/logos/aproraLetrasVerdesTransparente.png" class="img-fluid img center" id="logo" style="width:80%; margin:auto">
                         </div>
                         <div id="selector-cronometro">
@@ -139,6 +163,7 @@
                         <div id="controlador">
                             <button id="cronometro-pausa">Continuar</button>
                             <button id="cronometro-reset">Resetear contador</button>
+                            <input type="text" id="cronometro-tiempo" placeholder="segundos">
                         </div>
                     </div>
                 </div>
@@ -244,6 +269,18 @@
             timer.sec = timer.time % 60;
         }
 
+        function hmsToSecondsOnly(str) {
+            var p = str.split(':'),
+                s = 0, m = 1;
+
+            while (p.length > 0) {
+                s += m * parseInt(p.pop(), 10);
+                m *= 60;
+            }
+
+            return s;
+        }
+
         function callTimer(timer, min, sec) {
             if (timer.isRunning == true) {
 
@@ -281,23 +318,26 @@
         }
 
         function initTimer(timer) {
+            var valor = $("#cronometro-tiempo").val();
+            segundos = (valor.trim())?valor:0;
             switch (timer.type) {
                 case 'exposicion':
-                    timer.time = 11;
+                    timer.time = parseInt(segundos);
                     break;
                 case 'refutacion':
-                    timer.time = 240;
+                    timer.time = parseInt(segundos);
                     break;
                 case 'refutacion2':
-                    timer.time = 240;
+                    timer.time = parseInt(segundos);
                     break;
                 case 'conclusion':
-                    timer.time = 180;
+                    timer.time = parseInt(segundos);
                     break;
             }
             timer.isRunning = false; //pausar o continuar la cuenta
             timer.reverseClock = false; //invertir la cuenta
             $("#cronometro-pausa").html("Continuar");
+            $("#cronometro-tiempo").val("");
             timeToMinSec(timer);
             paintTimer(timer);
         }
