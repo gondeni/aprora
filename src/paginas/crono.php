@@ -10,6 +10,11 @@
     #box {
         /*float: left;*/
         margin-top: 50px;
+        /*width:100%;*/
+        max-width: 800px;
+        margin-left:auto;
+        margin-right:auto;
+        display:block;
         /*border: 1px solid #212121;*/
 
     }
@@ -375,7 +380,7 @@
             }
             timer.isRunning = false; //pausar o continuar la cuenta
             timer.reverseClock = false; //invertir la cuenta
-            $("#cronometro-pausa").html("Continuar");
+            $("#cronometro-pausa").html("Iniciar");
             $("#cronometro-tiempo").val("");
             timeToMinSec(timer);
             paintTimer(timer);
@@ -392,7 +397,7 @@
 
         function pauseBtn(timer) {
             if (!timer.isRunning) {
-                $("#cronometro-pausa").html("Continuar");
+                $("#cronometro-pausa").html("Iniciar");
             } else {
                 $("#cronometro-pausa").html("Pausar");
             }
