@@ -8,30 +8,43 @@
 <style>
     /* CSS Document */
     #box {
-        float: left;
+        /*float: left;*/
         margin-top: 50px;
-        width: 100%;
-    }
+        /*border: 1px solid #212121;*/
 
+    }
+    #logo{
+        margin-left:auto;
+        margin-right:auto;
+        display:block;
+    }
     #selector-cronometro {
-        float: left;
-        text-align: center;
+        /*float: left;*/
+        /*text-align: center;*/
+        margin-left:auto;
+        margin-right:auto;
         margin-bottom: 10px;
     }
 
     #cronometros {
-        float: left;
-        margin: 20px 0;
+        /*float: left;*/
+        margin-top: 20px;
+        margin-left:auto;
+        margin-right:auto;
+        display:block;
         text-align: center;
     }
 
     #controlador {
         margin-top: 10px;
+        margin-left:auto;
+        margin-right:auto;
+        /*display:block;*/
         float: left;
 
     }
 
-    #cronometro-pausa{
+    #cronometro-pausa {
         background: #212121;
         color: #9b9b9b;
         padding: 10px;
@@ -60,8 +73,8 @@
         color: #9b9b9b;
         padding: 10px;
         width: 100px;
-        float: right;
-        border: none;
+        /*float: right;*/
+        /*border: none;*/
         font-family: 'Maven Pro', sans-serif;
         font-size: 18px;
         border: 1px solid #212121;
@@ -71,6 +84,7 @@
         background: #575757;
         color: #bcbcbc;
         border: 1px solid #7a7a7a;
+        color: #00AB39;
     }
 
     #cronometro-pausa {
@@ -82,12 +96,13 @@
     }
 
     .cronometro {
-        border: 4px solid #CCCCCC;
+        /*border: 4px solid #CCCCCC;*/
         color: black;
         float: left;
         font-size: 115px;
         padding: 35px 0;
-        width: 698px;
+        /*width: 698px;*/
+        width: 100%;
     }
 
     .cronometro.alert {
@@ -99,8 +114,8 @@
         color: #9b9b9b;
         float: left;
         font-weight: normal;
-        margin-right: 10px;
-        padding: 7px 0;
+        /*margin-right: 10px;*/
+        /*margin: 0 !important;*/
         width: 167px;
         font-size: 17px;
         border: 1px solid #212121;
@@ -144,26 +159,45 @@
                 <div>
                     <meta name="viewport"
                           content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0">
-                    <div id="box">
-                        <div class="row" style="width: 698px;margin-bottom: 30px">
-                            <img src="../../assets/img/logos/aproraLetrasVerdesTransparente.png" class="img-fluid img center" id="logo" style="width:80%; margin:auto">
+                    <div class="row" id="box">
+                        <div class="row" style="margin-bottom: 30px">
+                            <div class="col-md-8 offset-4" id="logo">
+                                <img src="../../assets/img/logos/aproraLetrasVerdesTransparente.png"
+                                     class="img-fluid img center" id="logo" style="width: 80%">
+                            </div>
                         </div>
-                        <div id="selector-cronometro">
-                            <span id="btn-exposicion" class="btn btn-active">Exposición</span>
-                            <span id="btn-refutacion" class="btn">Refutación 1</span>
-                            <span id="btn-refutacion2" class="btn">Refutación 2</span>
-                            <span id="btn-conclusion" class="btn">Conclusión</span>
+                        <div class="row" id="selector-cronometro">
+                            <div class="col-md-3">
+                                <span id="btn-exposicion" class="btn btn-active">Exposición</span>
+                            </div>
+                            <div class="col-md-3">
+                                <span id="btn-refutacion" class="btn">Refutación 1</span>
+                            </div>
+                            <div class="col-md-3">
+                                <span id="btn-refutacion2" class="btn">Refutación 2</span>
+                            </div>
+                            <div class="col-md-3">
+                                <span id="btn-conclusion" class="btn">Conclusión</span>
+                            </div>
                         </div>
-                        <div id="cronometros">
-                            <span style="display: block;" id="cronometro-exposicion" class="cronometro">00:00:20</span>
-                            <span style="display: none;" id="cronometro-refutacion" class="cronometro">00:04:00</span>
-                            <span style="display: none;" id="cronometro-refutacion2" class="cronometro">00:04:00</span>
-                            <span style="display: none;" id="cronometro-conclusion" class="cronometro">00:03:00</span>
+                        <div class="row" id="cronometros">
+                                <span style="display: block;" id="cronometro-exposicion"
+                                      class="cronometro activo">00:00:11</span>
+                            <span style="display: none;" id="cronometro-refutacion"
+                                  class="cronometro">00:04:00</span>
+                            <span style="display: none;" id="cronometro-refutacion2"
+                                  class="cronometro">00:04:00</span>
+                            <span style="display: none;" id="cronometro-conclusion"
+                                  class="cronometro">00:03:00</span>
                         </div>
-                        <div id="controlador">
-                            <button id="cronometro-pausa">Continuar</button>
-                            <button id="cronometro-reset">Resetear contador</button>
-                            <input type="text" id="cronometro-tiempo" placeholder="segundos">
+                        <div class="row" id="controlador">
+                            <div class="col-md-6">
+                                <button class="btn" id="cronometro-pausa">Iniciar</button>
+                            </div>
+                            <div class="col-md-6">
+                                <button id="cronometro-reset">Resetear contador (s)</button>
+                                <input  type="text" id="cronometro-tiempo" placeholder="segundos">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -216,6 +250,7 @@
             $("#btn-exposicion").addClass("btn-active");
             $(".cronometro").hide();
             $("#cronometro-exposicion").show();
+            $("#cronometro-tiempo").val(180);
             active_timer = timers.get(0);
             pauseBtn(active_timer);
         });
@@ -225,6 +260,7 @@
             $("#btn-refutacion").addClass("btn-active");
             $(".cronometro").hide();
             $("#cronometro-refutacion").show();
+            $("#cronometro-tiempo").val(240);
             active_timer = timers.get(1);
             pauseBtn(active_timer);
         });
@@ -234,6 +270,7 @@
             $("#btn-refutacion2").addClass("btn-active");
             $(".cronometro").hide();
             $("#cronometro-refutacion2").show();
+            $("#cronometro-tiempo").val(240);
             active_timer = timers.get(2);
             pauseBtn(active_timer);
         });
@@ -243,6 +280,7 @@
             $("#btn-conclusion").addClass("btn-active");
             $(".cronometro").hide();
             $("#cronometro-conclusion").show();
+            $("#cronometro-tiempo").val(180);
             active_timer = timers.get(3);
             pauseBtn(active_timer);
         });
@@ -300,6 +338,7 @@
                         timer.min++;
                         timer.sec = 0;
                     }
+                    if(timer.min==0 && timer.sec<=10 && timer.reverseClock)parpadeo(timer);
                 }
 
                 paintTimer(timer);
@@ -319,7 +358,7 @@
 
         function initTimer(timer) {
             var valor = $("#cronometro-tiempo").val();
-            segundos = (valor.trim())?valor:0;
+            segundos = (valor.trim()) ? valor : 0;
             switch (timer.type) {
                 case 'exposicion':
                     timer.time = parseInt(segundos);
@@ -347,8 +386,8 @@
                 opacity: 0.25
             }, 150).delay(150).animate({
                 opacity: 1
-        }, 150);
-            $(".cronometro").animate({color: "#cc0022"},150).delay(150);
+            }, 150);
+            // $(".cronometro").animate({color: "#cc0022"}, 150).delay(150);
         }
 
         function pauseBtn(timer) {
