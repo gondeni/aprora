@@ -13,6 +13,23 @@
   text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
+#cronometro_menu{
+  font-size: 15px;
+  border: 1px solid #00AB39;
+  border-radius: 5px;
+  background-color: #00AB39;
+}
+
+#cronometro_menu a{
+  color:white;
+}
+#cronometro_menu:hover a:hover{
+  color:#00AB39;
+  background-color: white;
+  border:0;
+  border-radius: 0;
+}
+
 .navbar-brand {
   display: inline-block;
   padding-top: .3125rem;

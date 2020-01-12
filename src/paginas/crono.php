@@ -19,10 +19,37 @@
 
     }
 
+    #volver{
+        color: #00AB39;
+        font-size:20px ;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
     #logo {
         margin-left: auto;
         margin-right: auto;
         display: block;
+    }
+
+    .aprora_letras {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    .aprora_letras a {
+        width: 60px;
+        padding: 10px;
+
+    }
+
+    .aprora_letras p {
+        padding: 15px;
+        text-align: left;
+        font-size: 1em;
+        /*text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;*/
     }
 
     #selector-cronometro {
@@ -210,7 +237,7 @@
                                       class="cronometro">00:03:00</span>
                             </div>
                         </div>
-                        <div class="row" id="controlador">
+                        <div class="row" id="controlador" style="margin-bottom:50px">
                             <div class="col-4">
                                 <button class="btn" id="cronometro-pausa">Iniciar</button>
                             </div>
@@ -223,6 +250,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row">
+                <a href="../../index.html" id="volver">Volver</a>
             </div>
         </div>
     </div>
