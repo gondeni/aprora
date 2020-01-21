@@ -9,7 +9,7 @@
     /* CSS Document */
     #box {
         /*float: left;*/
-        margin-top: 50px;
+        margin-top: 20px;
         width: 100%;
         /*width: 800px;*/
         margin-left: auto;
@@ -199,10 +199,10 @@
             <div class="row" id="box">
                 <div class="col">
                     <div class="row">
-                        <div class="row" style="margin-bottom: 30px">
+                        <div class="row" style="margin-bottom: 20px">
                             <div class="col-sm-6 offset-3" id="logo">
-                                <img src="../../assets/img/logos/aproraLetrasVerdesTransparente.png"
-                                     class="img-fluid img center" id="logo" style="width: 80%">
+                                <img src="../../assets/img/logos/aproraLetrasVerdesTransparente_letras_verdes.png"
+                                     class="img-fluid img center" id="logo" style="width: 90%">
                             </div>
                         </div>
                         <div class="row" id="selector-cronometro">
