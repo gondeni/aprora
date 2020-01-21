@@ -41,7 +41,7 @@
       <img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/logos/hoy.jpg" alt="Diario 'HOY'">
     </div> -->
     <div class=" col-md-12 g-pt-25 g-pl-50">
-      <a href="../../assets/img/III_concurso_oratoria.jpg" class="g-color-primary" target="_blank"><img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/III_concurso_oratoria.jpg" alt="tercer concurso de oratoria EP ESO"></a>
+      <a href="../../resources/concurso_oratoria_2020.pdf" class="g-color-primary" target="_blank"><img class="img-fluid u-shadow-v2 g-rounded-3 img-responsive" style="max-width:100%;" src="../../assets/img/III_concurso_oratoria.jpg" alt="tercer concurso de oratoria EP ESO"></a>
     </div>
   </div>
   </div>

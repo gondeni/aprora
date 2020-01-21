@@ -57,12 +57,12 @@
         /*text-align: center;*/
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 10px;
+        /*margin-bottom: 10px;*/
     }
 
     #cronometros {
         /*float: left;*/
-        margin-top: 20px;
+        /*margin-top: 10px;*/
         margin-left: auto;
         margin-right: auto;
         display: block;
@@ -80,7 +80,7 @@
 
     #cronometro-pausa {
         background: #212121;
-        color: #9b9b9b;
+        color: white;
         padding: 15px;
         /*width: 300px;*/
         float: left;
@@ -93,7 +93,7 @@
 
     #cronometro-reset {
         background: #212121;
-        color: #9b9b9b;
+        color: white;
         padding: 15px;
         border-radius: 5px;
         border: none;
@@ -130,12 +130,14 @@
     .cronometro {
         /*border: 4px solid #CCCCCC;*/
         color: black;
-        float: left;
-        font-size: 16px;
-        font-size: 10vw;
+        /*float: left;*/
+        /*font-size: 16px;*/
+        text-align: center;
+        font-size: 15vw;
         font-weight: normal;
-        padding: 35px;
-        max-width: 698px;
+        margin-left: -15%;
+        /*padding: 10px;*/
+        /*max-width: 698px;*/
         /*width: 100%;*/
     }
 
@@ -145,7 +147,7 @@
 
     .btn {
         background: #212121;
-        color: #9b9b9b;
+        color: white;
         float: left;
         font-weight: normal;
         width: 100%;
@@ -245,7 +247,7 @@
                                 <button id="cronometro-reset">Resetear (s)</button>
                             </div>
                             <div class="col-2">
-                                <input type="text" id="cronometro-tiempo" placeholder="segundos">
+                                <input type="text" id="cronometro-tiempo" placeholder="segundos" value="180">
                             </div>
                         </div>
                     </div>
@@ -271,7 +273,7 @@
         var timers = $(".cronometro");
         var active_timer = timers.get(0);
         //Inicializar contadores
-        timers.get(0).time = 11; //exposicion
+        timers.get(0).time = 180; //exposicion
         timers.get(0).type = "exposicion";
         timers.get(1).time = 240; //refutacion
         timers.get(1).type = "refutacion";
@@ -428,7 +430,7 @@
             timer.isRunning = false; //pausar o continuar la cuenta
             timer.reverseClock = false; //invertir la cuenta
             $("#cronometro-pausa").html("Iniciar");
-            $("#cronometro-tiempo").val("");
+            $("#cronometro-tiempo").val(valor);
             timeToMinSec(timer);
             paintTimer(timer);
         }
